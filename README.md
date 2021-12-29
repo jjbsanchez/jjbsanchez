@@ -1,9 +1,6 @@
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=jjbsanchez&amp;show_icons=true&amp;theme=merko" alt="Juan github stats">
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjbsanchez&amp;layout=compact&amp;theme=merko" alt="Top Langs">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jjbsanchez&show_icons=true&theme=radical)
 
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjbsanchez&layout=compact&theme=radical)](https://github.com/jjbsanchez/github-readme-stats)
 
 <!--
 **jjbsanchez/jjbsanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

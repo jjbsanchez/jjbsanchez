@@ -1,13 +1,3 @@
-### Hi, I'm Juan👋
-
-#### _Technologies_:
-<p>
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="Javascript" />
-<img src="https://raw.githubusercontent.com/hussainweb/hussainweb/master/icons/php.png" alt="PHP" width="45"/>
-</p>
-
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=jjbsanchez&amp;show_icons=true&amp;theme=merko" alt="Juan github stats">
 &nbsp;&nbsp;
